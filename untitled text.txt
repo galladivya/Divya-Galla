@@ -1,0 +1,13 @@
+
+
+https://my-application-31063.firebaseio.com/
+
+username:user valid
+if user is a shopowner
+
+create a list of shopes he owned.A owner can own more than 1 shop.
+
+the list of the shops is given true value.
+
+
+
